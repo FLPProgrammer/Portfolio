@@ -17,7 +17,17 @@ export const Container = styled.div`
 
 .straight-bar,
 .straight-bar2,
-.straight-bar3,
+.straight-bar3 {
+  width: 5px;
+  height: 700px;
+  background-color: yellow;
+  border-radius: 50%;
+  margin-left: 20px;
+  animation: ${blink} 1s infinite;
+  
+}
+
+
 .straight-bar4,
 .straight-bar5,
 .straight-bar6 {
@@ -25,7 +35,7 @@ export const Container = styled.div`
   height: 700px;
   background-color: yellow;
   border-radius: 50%;
-  margin-left: 40px;
+  margin-left: 20px;
   animation: ${blink} 1s infinite;
   
 }
