@@ -17,7 +17,7 @@ export const dataProjects: IProject[] = [
     description:
       'Aplicação com listagem de produtos e navegação dinâmica. Estruturada para integração entre frontend e backend.',
     technologies: ['Next.js', 'TypeScript', 'Node.js', 'Express', 'PostgreSQL'],
-    link: 'come-back-store-front-end.vercel.app',
+    link: 'https://come-back-store-front-end.vercel.app/',
   },
   {
     id: 3,
@@ -26,6 +26,6 @@ export const dataProjects: IProject[] = [
     description:
       'Interface com exibição de itens e layout responsivo. Preparada para consumir dados de um backend.',
     technologies: ['Next.js', 'TypeScript', 'Node.js', 'Express', 'PostgreSQL'],
-    link: 'flp-foods-front-end.vercel.app',
+    link: 'https://flp-foods-front-end.vercel.app/',
   },
 ];
