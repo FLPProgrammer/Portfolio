@@ -17,7 +17,7 @@ export const dataProjects: IProject[] = [
     description:
       'Aplicação com listagem de produtos e navegação dinâmica. Estruturada para integração entre frontend e backend.',
     technologies: ['Next.js', 'TypeScript', 'Node.js', 'Express', 'PostgreSQL'],
-    link: 'https://github.com/FLPProgrammer/ComeBackStoreFrontEnd',
+    link: 'come-back-store-front-end.vercel.app',
   },
   {
     id: 3,

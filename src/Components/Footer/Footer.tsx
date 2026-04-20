@@ -20,7 +20,6 @@ export function Footer() {
                 <Navbar>
                     <Link href='/projects'>Projects</Link>
                     <Link href='/about'>About</Link>
-                    <Link href='/contact'>Contact</Link>
                 </Navbar>
                 <BoxEmail>
                     <MdEmail />
